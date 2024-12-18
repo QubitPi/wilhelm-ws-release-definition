@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+
+hashicorp/instances/.terraform.lock.hcl
+hashicorp/instances/.terraform/
+hashicorp/instances/terraform.tfstate
+hashicorp/instances/terraform.tfstate.backup
